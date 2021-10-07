@@ -1,0 +1,17 @@
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\CalculatorTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\CalculatorTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\CalculatorTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.deps.json
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.runtimeconfig.json
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.runtimeconfig.dev.json
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.dll
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.pdb
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\CalculatorTest\bin\Debug\netcoreapp2.1\Calculatordll.dll
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\CalculatorTest\bin\Debug\netcoreapp2.1\Calculatordll.pdb
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.csprojAssemblyReference.cache
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.csproj.CoreCompileInputs.cache
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.AssemblyInfoInputs.cache
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.AssemblyInfo.cs
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.csproj.CopyComplete
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.dll
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.pdb

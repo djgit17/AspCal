@@ -1,0 +1,6 @@
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\Calculatordll\bin\Debug\Calculatordll.dll
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\Calculatordll\bin\Debug\Calculatordll.pdb
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\Calculatordll\obj\Debug\Calculatordll.csprojAssemblyReference.cache
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\Calculatordll\obj\Debug\Calculatordll.csproj.CoreCompileInputs.cache
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\Calculatordll\obj\Debug\Calculatordll.dll
+D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\Calculatordll\obj\Debug\Calculatordll.pdb
