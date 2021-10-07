@@ -49,7 +49,6 @@ D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\AspCalApp\bin\roslyn\VBCSCompi
 D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\AspCalApp\bin\roslyn\VBCSCompiler.exe.config
 D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\AspCalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\AspCalApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\AspCalApp\obj\Debug\AspCalApp.csprojAssemblyReference.cache
 D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\AspCalApp\obj\Debug\AspCalApp.csproj.CoreCompileInputs.cache
 D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\AspCalApp\obj\Debug\AspCalApp.csproj.CopyComplete
 D:\college_Subjects\C#\ASP .NET\AspTest\AspCalApp\AspCalApp\obj\Debug\AspCalApp.dll
